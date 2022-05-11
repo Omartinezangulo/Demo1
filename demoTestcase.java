@@ -7,7 +7,7 @@ public class demoTestcase {
     public void subtract(){
 
 
-assertEquals(3, demo.sub(2, 1));
+assertEquals(0, demo.sub(1, 1));
     }
     
     
